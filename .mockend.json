@@ -1,6 +1,6 @@
 {
-  "Comment": {
-    "body": "string",
-    "post": "Post"
+  "fulfillments": {
+    "order_id": "int",
+    "name": "string"
   }
 }
