@@ -10,7 +10,7 @@
     "body": "string",
     "post": "Post"
   },
-  "fullfilment": {
+  "Fullfilment": {
     "order_id": "int"
   }
 }
