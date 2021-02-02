@@ -11,6 +11,9 @@
     "post": "Post"
   },
   "Fullfilment": {
-    "order_id": "int"
+    "order_id": "int",    
+    "customer_id": "int",
+    "notify_customer": "boolean"
+
   }
 }
