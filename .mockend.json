@@ -9,5 +9,8 @@
   "Comment": {
     "body": "string",
     "post": "Post"
+  },
+  "fullfilment": {
+    "order_id": "int"
   }
 }
